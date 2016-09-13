@@ -4,13 +4,6 @@
     <exe-path>$USER_HOME$/.nvm/versions/node/v6.2.0/bin/bower</exe-path>
     <config-path>$USER_HOME$/Scratch/AngularTests/bower.json</config-path>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="Bundled (Maven 3)" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
